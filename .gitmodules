@@ -2,3 +2,8 @@
 	path = emanjuGbr/DigitalWorkbook
 	url = git@github.com:emanjuGbr/DigitalWorkbook.git
 	branch = master
+
+[submodule "cytex124/odoo-drag-and-drop"]
+	path = cytex124/odoo-drag-and-drop
+	url = git@github.com:cytex124/odoo-drag-and-drop.git
+	branch = 11.0
